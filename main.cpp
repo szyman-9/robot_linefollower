@@ -4,7 +4,7 @@
 // 18929, grupa 4
 // PWSZ w Elblągu
 // Instytut Informatyki Stosowanej
-// Robot 'line-follower'
+// Robot 'line follower'
 
 // Czujniki
 DigitalOut czujPrawyNapiecie(D15), czujLewyNapiecie(D14);
